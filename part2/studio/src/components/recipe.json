@@ -1,17 +1,21 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Italian Stuffed Jalapenos",
+     "author": "Guy Fieri",
+     "description": "Unique twist on traditional stuffed Jalapenos peppers. Only takes 15 mins of prep!",
+     "website": "https://www.foodnetwork.com/recipes/italian-stuffed-jalapenos-recipe-1951967",
+     "recipeImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/5/27/0/GI0417_Italian-Stuff-Jalapenos.jpg.rend.hgtvcom.1280.720.suffix/1382538702461.webp",
+     "authorImage": "https://images.wsj.net/im-744132/?width=1278&size=1",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "jalapenos",
+       "canola oil",
+       "red onion",
+       "red bell pepper",
+       "garlic",
+       "cream cheese",
+       "Parmesan",
+       "mozzarella cheese",
+       "Salt and pepper"
      ]
    }
  ]
